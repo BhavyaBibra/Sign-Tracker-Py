@@ -1,4 +1,5 @@
 #Sign Language Tracker using Python
+##MediaPipe, CVZone, Time
 
 This program detects sign language with the help of neural networks and ML. 
 With an initial Data Collection module, the program collects data and trains.
